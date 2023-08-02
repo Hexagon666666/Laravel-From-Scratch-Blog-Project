@@ -22,7 +22,7 @@
     }
 </style>
 
-<body style="font-family: Open Sans, sans-serif">
+<body style="font-family: Poppins, Open Sans, sans-serif">
     <section class="px-6 py-8">
         <nav class="md:flex md:justify-between md:items-center">
             <div>
@@ -52,7 +52,7 @@
                                 href="/admin/posts/create"
                                 :active="request()->is('admin/posts/create')"
                             >
-                                New Post
+                                New Note
                             </x-dropdown-item>
 
                         <x-dropdown-item

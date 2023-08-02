@@ -1,3 +1,4 @@
+<?php header("X-Clacks-Overhead: GNU Terry Pratchett"); ?> 
 <header class="max-w-xl mx-auto mt-20 text-center">
     <h1 class="text-4xl">
        Welcome to PHPinboard

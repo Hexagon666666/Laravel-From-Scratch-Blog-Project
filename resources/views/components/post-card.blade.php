@@ -11,15 +11,6 @@
                    <x-category-button :category="$post->category" />
                 </div>
 
-                <div class="mt-4">
-                    <h1 class="text-3xl clamp one-line">
-                        <a>
-                            {{ $post->title }}
-                        </a>
-                    </h1>
-
-                   
-                </div>
             </header>
 
             <div class="text-sm mt-4 space-y-4">
