@@ -16,7 +16,7 @@
         "postcss": "^8.1.14"
     },
     "dependencies": {
-        "laravel-echo": "^1.15.2",
+        "laravel-echo": "^1.15.3",
         "pusher-js": "^8.3.0"
     }
 }
